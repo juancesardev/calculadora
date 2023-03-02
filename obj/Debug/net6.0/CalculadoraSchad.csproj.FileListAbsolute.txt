@@ -1,0 +1,15 @@
+D:\ANONYMOUS\GITHUB\Dvelopment\shad\CalculadoraSchad\bin\Debug\net6.0\CalculadoraSchad.exe
+D:\ANONYMOUS\GITHUB\Dvelopment\shad\CalculadoraSchad\bin\Debug\net6.0\CalculadoraSchad.deps.json
+D:\ANONYMOUS\GITHUB\Dvelopment\shad\CalculadoraSchad\bin\Debug\net6.0\CalculadoraSchad.runtimeconfig.json
+D:\ANONYMOUS\GITHUB\Dvelopment\shad\CalculadoraSchad\bin\Debug\net6.0\CalculadoraSchad.dll
+D:\ANONYMOUS\GITHUB\Dvelopment\shad\CalculadoraSchad\bin\Debug\net6.0\CalculadoraSchad.pdb
+D:\ANONYMOUS\GITHUB\Dvelopment\shad\CalculadoraSchad\obj\Debug\net6.0\CalculadoraSchad.csproj.AssemblyReference.cache
+D:\ANONYMOUS\GITHUB\Dvelopment\shad\CalculadoraSchad\obj\Debug\net6.0\CalculadoraSchad.GeneratedMSBuildEditorConfig.editorconfig
+D:\ANONYMOUS\GITHUB\Dvelopment\shad\CalculadoraSchad\obj\Debug\net6.0\CalculadoraSchad.AssemblyInfoInputs.cache
+D:\ANONYMOUS\GITHUB\Dvelopment\shad\CalculadoraSchad\obj\Debug\net6.0\CalculadoraSchad.AssemblyInfo.cs
+D:\ANONYMOUS\GITHUB\Dvelopment\shad\CalculadoraSchad\obj\Debug\net6.0\CalculadoraSchad.csproj.CoreCompileInputs.cache
+D:\ANONYMOUS\GITHUB\Dvelopment\shad\CalculadoraSchad\obj\Debug\net6.0\CalculadoraSchad.dll
+D:\ANONYMOUS\GITHUB\Dvelopment\shad\CalculadoraSchad\obj\Debug\net6.0\refint\CalculadoraSchad.dll
+D:\ANONYMOUS\GITHUB\Dvelopment\shad\CalculadoraSchad\obj\Debug\net6.0\CalculadoraSchad.pdb
+D:\ANONYMOUS\GITHUB\Dvelopment\shad\CalculadoraSchad\obj\Debug\net6.0\CalculadoraSchad.genruntimeconfig.cache
+D:\ANONYMOUS\GITHUB\Dvelopment\shad\CalculadoraSchad\obj\Debug\net6.0\ref\CalculadoraSchad.dll
